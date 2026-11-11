@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+#two {
+    color: rgb(24, 24, 184);
+    font-size: 32px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.rose {
+    background-color: rgb(245, 167, 167);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.rose.extra {
+    font-size: 24px;
+}
